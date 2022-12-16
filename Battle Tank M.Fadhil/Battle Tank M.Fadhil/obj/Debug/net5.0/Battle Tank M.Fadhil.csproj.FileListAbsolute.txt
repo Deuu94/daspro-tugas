@@ -1,0 +1,16 @@
+C:\Users\acer\Desktop\Battle Tank M.Fadhil\obj\Debug\net5.0\Battle Tank M.Fadhil.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\Battle Tank M.Fadhil\obj\Debug\net5.0\Battle Tank M.Fadhil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\Battle Tank M.Fadhil\obj\Debug\net5.0\Battle Tank M.Fadhil.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\Battle Tank M.Fadhil\obj\Debug\net5.0\Battle Tank M.Fadhil.AssemblyInfo.cs
+C:\Users\acer\Desktop\Battle Tank M.Fadhil\obj\Debug\net5.0\Battle Tank M.Fadhil.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\Battle Tank M.Fadhil\bin\Debug\net5.0\Battle Tank M.Fadhil.exe
+C:\Users\acer\Desktop\Battle Tank M.Fadhil\bin\Debug\net5.0\Battle Tank M.Fadhil.deps.json
+C:\Users\acer\Desktop\Battle Tank M.Fadhil\bin\Debug\net5.0\Battle Tank M.Fadhil.runtimeconfig.json
+C:\Users\acer\Desktop\Battle Tank M.Fadhil\bin\Debug\net5.0\Battle Tank M.Fadhil.runtimeconfig.dev.json
+C:\Users\acer\Desktop\Battle Tank M.Fadhil\bin\Debug\net5.0\Battle Tank M.Fadhil.dll
+C:\Users\acer\Desktop\Battle Tank M.Fadhil\bin\Debug\net5.0\ref\Battle Tank M.Fadhil.dll
+C:\Users\acer\Desktop\Battle Tank M.Fadhil\bin\Debug\net5.0\Battle Tank M.Fadhil.pdb
+C:\Users\acer\Desktop\Battle Tank M.Fadhil\obj\Debug\net5.0\Battle Tank M.Fadhil.dll
+C:\Users\acer\Desktop\Battle Tank M.Fadhil\obj\Debug\net5.0\ref\Battle Tank M.Fadhil.dll
+C:\Users\acer\Desktop\Battle Tank M.Fadhil\obj\Debug\net5.0\Battle Tank M.Fadhil.pdb
+C:\Users\acer\Desktop\Battle Tank M.Fadhil\obj\Debug\net5.0\Battle Tank M.Fadhil.genruntimeconfig.cache

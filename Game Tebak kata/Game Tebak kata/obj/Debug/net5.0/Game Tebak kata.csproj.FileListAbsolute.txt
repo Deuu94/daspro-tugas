@@ -1,0 +1,16 @@
+C:\Users\acer\Desktop\Game Tebak kata\obj\Debug\net5.0\Game Tebak kata.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\Game Tebak kata\obj\Debug\net5.0\Game Tebak kata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\Game Tebak kata\obj\Debug\net5.0\Game Tebak kata.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\Game Tebak kata\obj\Debug\net5.0\Game Tebak kata.AssemblyInfo.cs
+C:\Users\acer\Desktop\Game Tebak kata\obj\Debug\net5.0\Game Tebak kata.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\Game Tebak kata\bin\Debug\net5.0\Game Tebak kata.exe
+C:\Users\acer\Desktop\Game Tebak kata\bin\Debug\net5.0\Game Tebak kata.deps.json
+C:\Users\acer\Desktop\Game Tebak kata\bin\Debug\net5.0\Game Tebak kata.runtimeconfig.json
+C:\Users\acer\Desktop\Game Tebak kata\bin\Debug\net5.0\Game Tebak kata.runtimeconfig.dev.json
+C:\Users\acer\Desktop\Game Tebak kata\bin\Debug\net5.0\Game Tebak kata.dll
+C:\Users\acer\Desktop\Game Tebak kata\bin\Debug\net5.0\ref\Game Tebak kata.dll
+C:\Users\acer\Desktop\Game Tebak kata\bin\Debug\net5.0\Game Tebak kata.pdb
+C:\Users\acer\Desktop\Game Tebak kata\obj\Debug\net5.0\Game Tebak kata.dll
+C:\Users\acer\Desktop\Game Tebak kata\obj\Debug\net5.0\ref\Game Tebak kata.dll
+C:\Users\acer\Desktop\Game Tebak kata\obj\Debug\net5.0\Game Tebak kata.pdb
+C:\Users\acer\Desktop\Game Tebak kata\obj\Debug\net5.0\Game Tebak kata.genruntimeconfig.cache

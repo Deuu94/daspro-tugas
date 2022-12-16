@@ -1,0 +1,30 @@
+D:\Dedew\UTS Daspro 1\bin\Debug\net6.0\UTS Daspro 1.exe
+D:\Dedew\UTS Daspro 1\bin\Debug\net6.0\UTS Daspro 1.deps.json
+D:\Dedew\UTS Daspro 1\bin\Debug\net6.0\UTS Daspro 1.runtimeconfig.json
+D:\Dedew\UTS Daspro 1\bin\Debug\net6.0\UTS Daspro 1.dll
+D:\Dedew\UTS Daspro 1\bin\Debug\net6.0\UTS Daspro 1.pdb
+D:\Dedew\UTS Daspro 1\obj\Debug\net6.0\UTS Daspro 1.csproj.AssemblyReference.cache
+D:\Dedew\UTS Daspro 1\obj\Debug\net6.0\UTS Daspro 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dedew\UTS Daspro 1\obj\Debug\net6.0\UTS Daspro 1.AssemblyInfoInputs.cache
+D:\Dedew\UTS Daspro 1\obj\Debug\net6.0\UTS Daspro 1.AssemblyInfo.cs
+D:\Dedew\UTS Daspro 1\obj\Debug\net6.0\UTS Daspro 1.csproj.CoreCompileInputs.cache
+D:\Dedew\UTS Daspro 1\obj\Debug\net6.0\UTS Daspro 1.dll
+D:\Dedew\UTS Daspro 1\obj\Debug\net6.0\refint\UTS Daspro 1.dll
+D:\Dedew\UTS Daspro 1\obj\Debug\net6.0\UTS Daspro 1.pdb
+D:\Dedew\UTS Daspro 1\obj\Debug\net6.0\UTS Daspro 1.genruntimeconfig.cache
+D:\Dedew\UTS Daspro 1\obj\Debug\net6.0\ref\UTS Daspro 1.dll
+C:\Users\User\OneDrive\Desktop\UTS DasPro M.Fadhil\UTS Daspro Kartu Nama\bin\Debug\net6.0\UTS Daspro 1.exe
+C:\Users\User\OneDrive\Desktop\UTS DasPro M.Fadhil\UTS Daspro Kartu Nama\bin\Debug\net6.0\UTS Daspro 1.deps.json
+C:\Users\User\OneDrive\Desktop\UTS DasPro M.Fadhil\UTS Daspro Kartu Nama\bin\Debug\net6.0\UTS Daspro 1.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\UTS DasPro M.Fadhil\UTS Daspro Kartu Nama\bin\Debug\net6.0\UTS Daspro 1.dll
+C:\Users\User\OneDrive\Desktop\UTS DasPro M.Fadhil\UTS Daspro Kartu Nama\bin\Debug\net6.0\UTS Daspro 1.pdb
+C:\Users\User\OneDrive\Desktop\UTS DasPro M.Fadhil\UTS Daspro Kartu Nama\obj\Debug\net6.0\UTS Daspro 1.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\UTS DasPro M.Fadhil\UTS Daspro Kartu Nama\obj\Debug\net6.0\UTS Daspro 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\UTS DasPro M.Fadhil\UTS Daspro Kartu Nama\obj\Debug\net6.0\UTS Daspro 1.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\UTS DasPro M.Fadhil\UTS Daspro Kartu Nama\obj\Debug\net6.0\UTS Daspro 1.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\UTS DasPro M.Fadhil\UTS Daspro Kartu Nama\obj\Debug\net6.0\UTS Daspro 1.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\UTS DasPro M.Fadhil\UTS Daspro Kartu Nama\obj\Debug\net6.0\UTS Daspro 1.dll
+C:\Users\User\OneDrive\Desktop\UTS DasPro M.Fadhil\UTS Daspro Kartu Nama\obj\Debug\net6.0\refint\UTS Daspro 1.dll
+C:\Users\User\OneDrive\Desktop\UTS DasPro M.Fadhil\UTS Daspro Kartu Nama\obj\Debug\net6.0\UTS Daspro 1.pdb
+C:\Users\User\OneDrive\Desktop\UTS DasPro M.Fadhil\UTS Daspro Kartu Nama\obj\Debug\net6.0\UTS Daspro 1.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\UTS DasPro M.Fadhil\UTS Daspro Kartu Nama\obj\Debug\net6.0\ref\UTS Daspro 1.dll

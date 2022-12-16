@@ -1,0 +1,52 @@
+<!--Muhammad Fadhil 2207111386-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.jsdelivr.net/npm/vue@2.7.13/dist/vue.js"></script>
+    <title>Todo VueJS</title>
+</head>
+<body>
+    <div id="app">
+        <p>{{title}}</p>
+
+        <input type="text" v-model="list">
+        <button type="submit" v-on:click="tambahList">Tambah list</button>
+
+        <ul>
+            <li v-for="list in lists" v-on:click="hapusList(list)">{{list.title}}</li>
+        </ul>
+    </div>
+
+    <script>
+        new Vue({
+            el: '#app',
+            data: {
+                title:"ToDoApps With Vue.JS",
+                list: '',
+                lists: [],
+            },
+            methods: {
+                tambahList: function () {
+                    var list = {
+                        id: Date.now(),
+                        title: this.list
+                    };
+                    
+                    this.lists.push(list);
+                    this.list = '';
+                },
+                hapusList: function (list) {
+                    var newlists = this.lists.filter(function (i) {
+                        return list.id !== i.id;
+                    });
+
+                    this.lists = newlists;
+                }
+            }
+        });
+    </script>   
+</body>
+</html>

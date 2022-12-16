@@ -1,0 +1,30 @@
+D:\Dedew\UTS Daspro 2\bin\Debug\net6.0\UTS Daspro 2.exe
+D:\Dedew\UTS Daspro 2\bin\Debug\net6.0\UTS Daspro 2.deps.json
+D:\Dedew\UTS Daspro 2\bin\Debug\net6.0\UTS Daspro 2.runtimeconfig.json
+D:\Dedew\UTS Daspro 2\bin\Debug\net6.0\UTS Daspro 2.dll
+D:\Dedew\UTS Daspro 2\bin\Debug\net6.0\UTS Daspro 2.pdb
+D:\Dedew\UTS Daspro 2\obj\Debug\net6.0\UTS Daspro 2.csproj.AssemblyReference.cache
+D:\Dedew\UTS Daspro 2\obj\Debug\net6.0\UTS Daspro 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dedew\UTS Daspro 2\obj\Debug\net6.0\UTS Daspro 2.AssemblyInfoInputs.cache
+D:\Dedew\UTS Daspro 2\obj\Debug\net6.0\UTS Daspro 2.AssemblyInfo.cs
+D:\Dedew\UTS Daspro 2\obj\Debug\net6.0\UTS Daspro 2.csproj.CoreCompileInputs.cache
+D:\Dedew\UTS Daspro 2\obj\Debug\net6.0\UTS Daspro 2.dll
+D:\Dedew\UTS Daspro 2\obj\Debug\net6.0\refint\UTS Daspro 2.dll
+D:\Dedew\UTS Daspro 2\obj\Debug\net6.0\UTS Daspro 2.pdb
+D:\Dedew\UTS Daspro 2\obj\Debug\net6.0\UTS Daspro 2.genruntimeconfig.cache
+D:\Dedew\UTS Daspro 2\obj\Debug\net6.0\ref\UTS Daspro 2.dll
+C:\Users\User\OneDrive\Desktop\UTS DasPro M.Fadhil\UTS Daspro USD to RP\bin\Debug\net6.0\UTS Daspro 2.exe
+C:\Users\User\OneDrive\Desktop\UTS DasPro M.Fadhil\UTS Daspro USD to RP\bin\Debug\net6.0\UTS Daspro 2.deps.json
+C:\Users\User\OneDrive\Desktop\UTS DasPro M.Fadhil\UTS Daspro USD to RP\bin\Debug\net6.0\UTS Daspro 2.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\UTS DasPro M.Fadhil\UTS Daspro USD to RP\bin\Debug\net6.0\UTS Daspro 2.dll
+C:\Users\User\OneDrive\Desktop\UTS DasPro M.Fadhil\UTS Daspro USD to RP\bin\Debug\net6.0\UTS Daspro 2.pdb
+C:\Users\User\OneDrive\Desktop\UTS DasPro M.Fadhil\UTS Daspro USD to RP\obj\Debug\net6.0\UTS Daspro 2.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\UTS DasPro M.Fadhil\UTS Daspro USD to RP\obj\Debug\net6.0\UTS Daspro 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\UTS DasPro M.Fadhil\UTS Daspro USD to RP\obj\Debug\net6.0\UTS Daspro 2.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\UTS DasPro M.Fadhil\UTS Daspro USD to RP\obj\Debug\net6.0\UTS Daspro 2.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\UTS DasPro M.Fadhil\UTS Daspro USD to RP\obj\Debug\net6.0\UTS Daspro 2.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\UTS DasPro M.Fadhil\UTS Daspro USD to RP\obj\Debug\net6.0\UTS Daspro 2.dll
+C:\Users\User\OneDrive\Desktop\UTS DasPro M.Fadhil\UTS Daspro USD to RP\obj\Debug\net6.0\refint\UTS Daspro 2.dll
+C:\Users\User\OneDrive\Desktop\UTS DasPro M.Fadhil\UTS Daspro USD to RP\obj\Debug\net6.0\UTS Daspro 2.pdb
+C:\Users\User\OneDrive\Desktop\UTS DasPro M.Fadhil\UTS Daspro USD to RP\obj\Debug\net6.0\UTS Daspro 2.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\UTS DasPro M.Fadhil\UTS Daspro USD to RP\obj\Debug\net6.0\ref\UTS Daspro 2.dll

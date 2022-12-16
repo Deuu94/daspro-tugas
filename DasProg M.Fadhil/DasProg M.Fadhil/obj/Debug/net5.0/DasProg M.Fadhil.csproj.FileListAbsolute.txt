@@ -1,0 +1,16 @@
+C:\Users\acer\Desktop\DasProg M.Fadhil\bin\Debug\net5.0\DasProg M.Fadhil.exe
+C:\Users\acer\Desktop\DasProg M.Fadhil\bin\Debug\net5.0\DasProg M.Fadhil.deps.json
+C:\Users\acer\Desktop\DasProg M.Fadhil\bin\Debug\net5.0\DasProg M.Fadhil.runtimeconfig.json
+C:\Users\acer\Desktop\DasProg M.Fadhil\bin\Debug\net5.0\DasProg M.Fadhil.runtimeconfig.dev.json
+C:\Users\acer\Desktop\DasProg M.Fadhil\bin\Debug\net5.0\DasProg M.Fadhil.dll
+C:\Users\acer\Desktop\DasProg M.Fadhil\bin\Debug\net5.0\ref\DasProg M.Fadhil.dll
+C:\Users\acer\Desktop\DasProg M.Fadhil\bin\Debug\net5.0\DasProg M.Fadhil.pdb
+C:\Users\acer\Desktop\DasProg M.Fadhil\obj\Debug\net5.0\DasProg M.Fadhil.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\DasProg M.Fadhil\obj\Debug\net5.0\DasProg M.Fadhil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\DasProg M.Fadhil\obj\Debug\net5.0\DasProg M.Fadhil.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\DasProg M.Fadhil\obj\Debug\net5.0\DasProg M.Fadhil.AssemblyInfo.cs
+C:\Users\acer\Desktop\DasProg M.Fadhil\obj\Debug\net5.0\DasProg M.Fadhil.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\DasProg M.Fadhil\obj\Debug\net5.0\DasProg M.Fadhil.dll
+C:\Users\acer\Desktop\DasProg M.Fadhil\obj\Debug\net5.0\ref\DasProg M.Fadhil.dll
+C:\Users\acer\Desktop\DasProg M.Fadhil\obj\Debug\net5.0\DasProg M.Fadhil.pdb
+C:\Users\acer\Desktop\DasProg M.Fadhil\obj\Debug\net5.0\DasProg M.Fadhil.genruntimeconfig.cache
